@@ -1,4 +1,4 @@
-# FARTWHEEL 💨
+# FARTWHEEL 
 
 The Solana Wallet Gas Detector — tracks buys from a wallet and plays fart sounds scaled to buy size.
 
